@@ -347,7 +347,7 @@
 	 -ms-transform: translate(50%, -50%) rotate(0deg);
 }
  body {
-	background-image: url(./assets/bg-login.png);
+	background-image: url(assets/bg-login.png);
 	/* background-image: url(green.gif); */
 	background-position: center;
 	 background-size: cover;
